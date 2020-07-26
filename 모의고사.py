@@ -26,8 +26,6 @@ def solution(answers):
     for i in range(0, 3, 1):
         if max == temp1[i]:
             answer.append(i+1)
-    
-
     return answer
 
 print(solution([1,3,2,4,2]))
