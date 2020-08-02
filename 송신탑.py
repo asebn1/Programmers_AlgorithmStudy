@@ -12,6 +12,7 @@ def solution(heights):
         
     answer.reverse()
     
+    
     return answer
 
 
